@@ -1,0 +1,20 @@
+[
+{"f_id":1,"f_Source_path":"Enemy/Enemy1","f_position":"0, -4.57","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":2,"f_Source_path":"Enemy/Enemy1","f_position":"9.44,0.23","f_ailogic":2,"f_skillid":"2,,","f_dropThing":"","f_hp":50,"f_atk":5,"f_def":1,"f_exp":20,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":3,"f_Source_path":"Enemy/Enemy1","f_position":"15.8,9.2","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":4,"f_Source_path":"Enemy/Enemy1","f_position":"27.8,-13.4","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":5,"f_Source_path":"Enemy/Enemy1","f_position":"43.7, -16.3","f_ailogic":1,"f_skillid":"3,,","f_dropThing":"101,,","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":6,"f_Source_path":"Enemy/Enemy1","f_position":"-10.4, -16.35","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":7,"f_Source_path":"Enemy/Enemy1","f_position":"-37.8,-10","f_ailogic":1,"f_skillid":"3,,","f_dropThing":"102,105,","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":8,"f_Source_path":"Enemy/Enemy1","f_position":"-15.7,0","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":9,"f_Source_path":"Enemy/Enemy1","f_position":"38.7,1.8","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":10,"f_Source_path":"Enemy/Enemy1","f_position":"49.3,-1.4","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":11,"f_Source_path":"Enemy/Enemy1","f_position":"-22.5, -11.3","f_ailogic":1,"f_skillid":"2,,","f_dropThing":"102,104,","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":12,"f_Source_path":"Enemy/Enemy1","f_position":"-31.5, -11.7","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":13,"f_Source_path":"Enemy/Enemy1","f_position":"58.3,-15.8","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":14,"f_Source_path":"Enemy/Enemy1","f_position":"38.7, -18.5","f_ailogic":1,"f_skillid":"2,,","f_dropThing":"102,104,","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":15,"f_Source_path":"Enemy/Enemy1","f_position":"36.5,-18.5","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":16,"f_Source_path":"Enemy/Enemy1","f_position":"43.4, -18.5","f_ailogic":1,"f_skillid":"1,,","f_dropThing":"","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":17,"f_Source_path":"Enemy/Enemy1","f_position":"18.2, 24.4","f_ailogic":1,"f_skillid":"3,,","f_dropThing":"103,104,","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100},
+{"f_id":18,"f_Source_path":"Enemy/Enemy1","f_position":"-54.4, -23.6","f_ailogic":1,"f_skillid":"3,,","f_dropThing":"103,104,","f_hp":30,"f_atk":5,"f_def":1,"f_exp":10,"f_speed":3,"f_break_value":100,"f_stun_value":100}
+]

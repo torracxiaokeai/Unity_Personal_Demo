@@ -1,0 +1,15 @@
+[
+{"f_id":0,"f_source_path":"Interaction/Door0","f_inDoor_map":1000,"f_outDoor_map":1001,"f_outDoor_position":"-4,-4","f_finalDoor":""},
+{"f_id":1,"f_source_path":"Interaction/Door1","f_inDoor_map":1001,"f_outDoor_map":1002,"f_outDoor_position":"57,-15","f_finalDoor":""},
+{"f_id":2,"f_source_path":"Interaction/Door1","f_inDoor_map":1001,"f_outDoor_map":1002,"f_outDoor_position":"33.4,-18","f_finalDoor":""},
+{"f_id":3,"f_source_path":"Interaction/Door1","f_inDoor_map":1001,"f_outDoor_map":1002,"f_outDoor_position":"-52,-6.6","f_finalDoor":""},
+{"f_id":4,"f_source_path":"Interaction/Door1","f_inDoor_map":1001,"f_outDoor_map":1002,"f_outDoor_position":"39,25","f_finalDoor":""},
+{"f_id":5,"f_source_path":"Interaction/Door2","f_inDoor_map":1001,"f_outDoor_map":1000,"f_outDoor_position":"0,0","f_finalDoor":""},
+{"f_id":6,"f_source_path":"Interaction/Door3","f_inDoor_map":1002,"f_outDoor_map":1001,"f_outDoor_position":"17.4,-13.5","f_finalDoor":""},
+{"f_id":7,"f_source_path":"Interaction/Door3","f_inDoor_map":1002,"f_outDoor_map":1001,"f_outDoor_position":"-4.5,-16.5","f_finalDoor":""},
+{"f_id":8,"f_source_path":"Interaction/Door3","f_inDoor_map":1002,"f_outDoor_map":1001,"f_outDoor_position":"8.2, 12.2","f_finalDoor":""},
+{"f_id":9,"f_source_path":"Interaction/Door3","f_inDoor_map":1002,"f_outDoor_map":1001,"f_outDoor_position":"37.5,24","f_finalDoor":""},
+{"f_id":10,"f_source_path":"Interaction/Window","f_inDoor_map":1002,"f_outDoor_map":1001,"f_outDoor_position":"21.5,0.9","f_finalDoor":""},
+{"f_id":11,"f_source_path":"Interaction/Door1","f_inDoor_map":1001,"f_outDoor_map":1001,"f_outDoor_position":"-4,-4","f_finalDoor":""},
+{"f_id":12,"f_source_path":"Interaction/FinalDoor","f_inDoor_map":0,"f_outDoor_map":0,"f_outDoor_position":"","f_finalDoor":"finalDoor"}
+]

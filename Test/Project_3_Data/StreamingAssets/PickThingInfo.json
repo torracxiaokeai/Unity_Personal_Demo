@@ -1,0 +1,11 @@
+[
+{"f_id":1,"f_source_path":"PickThing/RedSmall","f_name":"小治疗药水","f_thing_Type":1,"f_value":25},
+{"f_id":2,"f_source_path":"PickThing/RedMiddle","f_name":"中治疗药水","f_thing_Type":1,"f_value":50},
+{"f_id":3,"f_source_path":"PickThing/RedBig","f_name":"大治疗药水","f_thing_Type":1,"f_value":100},
+{"f_id":4,"f_source_path":"PickThing/BlueSmall","f_name":"小魔法药水","f_thing_Type":2,"f_value":25},
+{"f_id":5,"f_source_path":"PickThing/BlueMiddle","f_name":"中魔法药水","f_thing_Type":2,"f_value":40},
+{"f_id":6,"f_source_path":"PickThing/BlueBig","f_name":"大魔法药水","f_thing_Type":2,"f_value":70},
+{"f_id":7,"f_source_path":"PickThing/YellowSmall","f_name":"小能量药水","f_thing_Type":3,"f_value":15},
+{"f_id":8,"f_source_path":"PickThing/YellowMiddle","f_name":"中能量药水","f_thing_Type":3,"f_value":25},
+{"f_id":9,"f_source_path":"PickThing/YellowBig","f_name":"大能量药水","f_thing_Type":3,"f_value":40}
+]

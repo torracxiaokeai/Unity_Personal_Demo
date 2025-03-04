@@ -1,0 +1,5 @@
+[
+{"f_id":1,"f_prefabpath":"Enemy/Skill/Empty","f_skillDeployType":1,"f_durationTime":1.5,"f_before_atk_Time":0.42,"f_atk_duration":0.5,"f_atkInterval":0.05,"f_check_Range":"2.17,0.35,3.26,0.57","f_hurt_Type":1,"f_hurt_Time":0,"f_knock_xSpeed":7,"f_knock_yForce":9},
+{"f_id":2,"f_prefabpath":"Enemy/Skill/Empty","f_skillDeployType":1,"f_durationTime":1.5,"f_before_atk_Time":0.42,"f_atk_duration":0.5,"f_atkInterval":0.05,"f_check_Range":"2.17,0.35,3.26,0.57","f_hurt_Type":2,"f_hurt_Time":0.25,"f_knock_xSpeed":7,"f_knock_yForce":9},
+{"f_id":3,"f_prefabpath":"Enemy/Skill/Empty","f_skillDeployType":1,"f_durationTime":1.5,"f_before_atk_Time":0.42,"f_atk_duration":0.5,"f_atkInterval":0.05,"f_check_Range":"2.17,0.35,3.26,0.57","f_hurt_Type":3,"f_hurt_Time":0.25,"f_knock_xSpeed":7,"f_knock_yForce":9}
+]

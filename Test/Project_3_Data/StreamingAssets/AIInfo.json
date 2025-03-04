@@ -1,0 +1,5 @@
+[
+{"f_id":1,"f_patrol_range_x":2.5,"f_patrol_waitTime":0.75,"f_move_range_x":4.5,"f_move_range_y":0.5,"f_move_waitTime":0.8,"f_move_range_max_x":5,"f_move_Distance_max_x":6,"f_atk_range_x":2,"f_atk_firstWaitTime":0.75,"f_atk_CDWaitTime":"2.5,3","f_back_waitTime":1},
+{"f_id":2,"f_patrol_range_x":1.5,"f_patrol_waitTime":1.5,"f_move_range_x":2.5,"f_move_range_y":0.5,"f_move_waitTime":0.8,"f_move_range_max_x":3,"f_move_Distance_max_x":4.5,"f_atk_range_x":1,"f_atk_firstWaitTime":0.75,"f_atk_CDWaitTime":"1.5,2.5","f_back_waitTime":1}
+
+]

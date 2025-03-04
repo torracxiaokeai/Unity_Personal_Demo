@@ -1,0 +1,10 @@
+[
+{"f_level":1,"f_hp":100,"f_atk":10,"f_def":1,"f_exp_need":10,"f_speed":10},
+{"f_level":2,"f_hp":110,"f_atk":11,"f_def":2,"f_exp_need":20,"f_speed":10},
+{"f_level":3,"f_hp":120,"f_atk":12,"f_def":3,"f_exp_need":30,"f_speed":10},
+{"f_level":4,"f_hp":130,"f_atk":13,"f_def":4,"f_exp_need":40,"f_speed":10},
+{"f_level":5,"f_hp":140,"f_atk":14,"f_def":5,"f_exp_need":50,"f_speed":10},
+{"f_level":6,"f_hp":150,"f_atk":15,"f_def":6,"f_exp_need":60,"f_speed":10},
+{"f_level":7,"f_hp":160,"f_atk":16,"f_def":7,"f_exp_need":70,"f_speed":10},
+{"f_level":8,"f_hp":170,"f_atk":17,"f_def":8,"f_exp_need":80,"f_speed":10}
+]

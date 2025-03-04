@@ -1,0 +1,4 @@
+[
+{"id":101,"name":"剑士","level":1,"icon":"Role/icon/1","res":"Role/res/1","profession":1,"hp":120,"atk":11,"def":14,"mp":100,"mpRestore":10,"moveSpeed":10,"atkSpeed":10,"crit":5,"critDamage":20,"hitEffect":"eff/1"},
+{"id":102,"name":"剑士","level":2,"icon":"Role/icon/2","res":"Role/res/2","profession":1,"hp":180,"atk":12,"def":16,"mp":100,"mpRestore":10,"moveSpeed":10,"atkSpeed":10,"crit":5,"critDamage":20,"hitEffect":"eff/2"}
+]
